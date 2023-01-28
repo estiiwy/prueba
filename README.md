@@ -15,7 +15,7 @@
 
 # 1. Descarga de herramienta de instalación de Windows 10
 
-> :link: Enlace de descarga:
+> 🔗 Enlace de descarga:
 > 
 > https://www.microsoft.com/es-es/software-download/windows10
 
