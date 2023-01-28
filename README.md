@@ -99,10 +99,4 @@ Tras haber retirado correctamente el USB del ordenador en que acabamos de realiz
 
 Comenzando con el ordenador apagado y el USB conectado, encendemos el ordenador y pulsamos repetidas veces las teclas `F2` o `Del` para iniciar la UEFI y así poder seleccionar que queremos que inicie con el USB.
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/6P0cXF9Qvpc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
-
-
-<!-- <video src="https://youtu.be/6P0cXF9Qvpc" controls="controls" style="max-width: 730px;">
-</video> -->
-
 {% include youtube.html id="6P0cXF9Qvpc" %}
