@@ -30,7 +30,7 @@
 
 > 🔗 Enlace de descarga:
 > 
-> https://www.microsoft.com/es-es/software-download/windows10
+> [https://www.microsoft.com/es-es/software-download/windows10](https://www.microsoft.com/es-es/software-download/windows10)
 
 Se pulsa al botón **Descargar ahora la herramienta**.
 
@@ -120,7 +120,7 @@ Es una configuración bastante guiada *(es de darle a "siguiente" casi todo el r
 
 > 🔗 **Enlace a recursos**
 > 
-> https://mega.nz/folder/8jQWgaxb
+> [https://mega.nz/folder/8jQWgaxb](https://mega.nz/folder/8jQWgaxb)
 
 Al acceder al enlace, se pedirá la **clave de descifrado**.
 
