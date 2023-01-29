@@ -14,6 +14,11 @@
   - [1.7. Descarga del sistema operativo](#17-descarga-del-sistema-operativo)
   - [1.8. Imagen de Windows 10 lista](#18-imagen-de-windows-10-lista)
 - [2. Inicio de imagen de instalación Windows 10](#2-inicio-de-imagen-de-instalación-windows-10)
+  - [2.1. Configuración de disco de arranque](#21-configuración-de-disco-de-arranque)
+    - [2.1.1. Alternativa](#211-alternativa)
+- [3. Instalación de Windows 10](#3-instalación-de-windows-10)
+- [4. Activación de Windows 10](#4-activación-de-windows-10)
+  - [4.1. Ejecutar activador](#41-ejecutar-activador)
 
 ---
 
@@ -97,6 +102,40 @@ Con esto, ya podemos ponernos manos a la obra 🛠 con la instalación del siste
 
 Tras haber retirado correctamente el USB del ordenador en que acabamos de realizar todo los pasos previos, insertamos el mismo USB en el ordenador en el que queremos instalar el sistema operativo.
 
+## 2.1. Configuración de disco de arranque
+
 Comenzando con el ordenador apagado y el USB conectado, encendemos el ordenador y pulsamos repetidas veces las teclas `F2` o `Del` para iniciar la UEFI y así poder seleccionar que queremos que inicie con el USB.
 
 {% include youtube.html id="6P0cXF9Qvpc" %}
+
+### 2.1.1. Alternativa
+
+Si esto no funcionase, también se puede intentar acceder al menú de selección de disco de arranque siguiendo los pasos anteriores, pero pulsando la tecla `F8`.
+
+# 3. Instalación de Windows 10
+
+Es una configuración bastante guiada *(es de darle a "siguiente" casi todo el rato)*.
+
+# 4. Activación de Windows 10
+
+> 🔗 **Enlace a recursos**
+> 
+> https://mega.nz/folder/8jQWgaxb
+
+Al acceder al enlace, se pedirá la **clave de descifrado**.
+
+![listado](img/listado-archivos-mega.png)
+
+Nos descargamos al menos el archivo comprimido `W10-activador.zip`.
+
+## 4.1. Ejecutar activador
+
+Una vez descargado:
+
+1. Se abre la carpeta en la que se ha descargado 
+2. Se extrae el contenido del `.zip`
+3. Se ejecuta con **permisos de administrador**
+
+> Aparecerán tres mensajes del sistema.
+> 
+> Hay que esperar a que aparezca el mensaje de que la clave ha sido instalada correctamente.
