@@ -28,8 +28,7 @@
 
 ## 1.1. Descarga de herramienta de instalación de Windows 10
 
-|                     🔗 Enlace de descarga                     | https://www.microsoft.com/es-es/software-download/windows10 	|
-|:-----------------------------------------------------------:	|:-----------------------------------------------------------:	|
+🔗 [Enlace de descarga](https://www.microsoft.com/es-es/software-download/windows10)
 
 Se pulsa al botón **Descargar ahora la herramienta**.
 
@@ -117,8 +116,7 @@ Es una configuración bastante guiada *(es de darle a "siguiente" casi todo el r
 
 # 4. Activación de Windows 10
 
-| 🔗 Enlace a recursos 	| https://mega.nz/folder/8jQWgaxb 	|
-|:-------------------:	|:-------------------------------:	|
+🔗 [Enlace a recursos](https://mega.nz/folder/8jQWgaxb)
 
 Al acceder al enlace, se pedirá la **clave de descifrado**.
 
